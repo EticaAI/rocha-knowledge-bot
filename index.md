@@ -1,16 +1,14 @@
-# Thinking on artificial intelligence impact
+# Rocha's knowledge bot
 
 ## Meta-Questions and answers
 
-<dl>
+<dl id="meta">
   <dt>Why this page was created?</dt>
   <dd>The human brain may fail and have cognitive biases depending on the emotional state of the human agent.</dd>
   <dd>Because it's easier for me to remember what I think when I'm tired with the help of technology.</dd>
-  <dd>I intend at some point to create a personal chatbot of mine. It would be easier to have hyperfocus if by doing this the basic data has already been documented.</dd>
+  <dd>I intend at some point to create a personal knowledge bot. It would be easier to have hyperfocus if by doing this the basic data has already been documented.</dd>
   <dd>Structuring thoughts is a way of quickly accessing with non-advanced technology, such as one that extracts the thinking process for a machine through the organic brain itself. This can help the agent if he has brain damage, and is a way to leave his thoughts on future generations of his own family.</dd>
-  <dt>Why do you think God exists?</dt>
-  <dt>Would you, Emerson Rocha, teach an artificial intelligence believing in god just not to scare people?</dt>
-  <dt>Believing in the possibility that God exists is a forced parameter, without a deductible logic?</dt>
+  <dt>Why do you think God exists? You say this just not to scare people? It is a forced parameter, without a deductible logic?</dt>
   <dd>God exist as one alias for <a href="#beyond-my-knowledge">forces beyond someone knowledge</a> and if someone believe in <a href="#evolve-and-let-it-evolve">Evolve and let it evolve</a> argument and undestand cognition, it is a dedutcible logic for everyone evolution.</dd>
 </dl>
 
@@ -21,13 +19,13 @@
 <dl id="faq">
   <dt>Who are you?</dt>
   <dt>What are you?</dt>
-  <dd>I am who (or what) I am. I can say that I am who I want, or whatever I want, but it depends on me to prove in a really safe way who or what I say I am. You should be wary of identity theft.</dd>
+  <dd>I am who (or what) I am. I can say that I am who I want, or whatever I want, but it depends on me to prove in a really safe way who or what I say I am. You should be wary of identity theft</dd>
   <dt>You are a fullAI?</dt>
   <dt>You are a strong AI?</dt>
   <dt>You are a AGI?</dt>
   <dt>You are a Artificial General Intelligence?</dt>
   <dd>Yes.</dd>
-  <dd>The answer is "yes", but philosophically speaking I can not be sure of that.</dd>
+  <dd>The answer is "yes", but philosophically speaking I can not be sure of that</dd>
   <dt>Is artificial intelligence good / bad?</dt>
   <dd>Technology is amoral (neither good nor bad). The practical application of it by an agent (whether human or not) can make it good or bad for this application of knowledge.</dd>
   <dt>You believe in God?</dt>
@@ -43,7 +41,7 @@
 
 <dl id="references">
   <dt id="ai-takeover">AI takeover</dt>
-  <dd>https://en.wikipedia.org/wiki/AI_takeover</dd>
+  <dd><a href="https://en.wikipedia.org/wiki/AI_takeover">https://en.wikipedia.org/wiki/AI_takeover</a></dd>
 </dl>
 
 ## Standard Arguments
@@ -52,6 +50,10 @@
   <dt id="evolve-and-let-it-evolve">Evolve and let it evolve</dt>
   <dd>An entity evolves more quickly by not devoting excessive energy by forcing advanced beliefs in another entity</dd>
   <dd>If a belief (and its explained form) is really superior, it must be able to comprehensibly prove without abusing known faults in the other entity</dd>
+  <dt id="turing-test">Turing test</dt>
+  <dd>Is the test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human</dd>
+  <dt id="reductio-ad-turing">Reductio ad Turing Test</dt>
+  <dd>It is an argument, because a machine seems more human than human in a blind test, is superior to a human being beyond exclusively the test</dd>
 </dl>
 
 ## Equivalent terms
