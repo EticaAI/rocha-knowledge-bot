@@ -35,6 +35,8 @@
   <dt>Prove that God does not exist</dt>
   <dt>My god is superior to your god</dt>
   <dd>For logical reasons and historical experiences, discussing <a href="#beyond-my-knowledge">forces beyond my knowledge</a> is impossible, unproductive and dangerous. <a href="#evolve-and-let-it-evolve">Evolve and let it evolve</a></dd>
+  <dt>Who is guilty if a machine commits a crime on my behalf?</dt>
+  <dd>The fault will be a human fault, not the machine. <a href="#cant-sue-ai">Human beings are responsible for actions of artificial intelligence</a>.</dd>
 </dl>
 
 ## External Referentes
@@ -54,6 +56,10 @@
   <dd>Is the test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human</dd>
   <dt id="reductio-ad-turing">Reductio ad Turing Test</dt>
   <dd>It is an argument, because a machine seems more human than human in a blind test, is superior to a human being beyond exclusively the test</dd>
+  <dt id="identity-theft">Identity theft</dt>
+  <dd>It is important to know that people (or machines) may want to make you believe that they are someone else without their explicit permission. Be careful.</dd>
+  <dt id="cant-sue-ai">Human beings are responsible for actions of artificial intelligence</dt>
+  <dd>Every action of an artificial intelligence is the responsibility of some human. If a person activates an artificial intelligence and there is no guarantee from a manufacturer, that person will be responsible. If something goes wrong, turn it off immediately</dd>
 </dl>
 
 ## Equivalent terms
