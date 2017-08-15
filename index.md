@@ -18,7 +18,7 @@
 
 ## Questions and answers
 
-<dl>
+<dl id="faq">
   <dt>Who are you?</dt>
   <dt>What are you?</dt>
   <dd>I am who (or what) I am. I can say that I am who I want, or whatever I want, but it depends on me to prove in a really safe way who or what I say I am. You should be wary of identity theft.</dd>
@@ -39,9 +39,16 @@
   <dd>For logical reasons and historical experiences, discussing <a href="#beyond-my-knowledge">forces beyond my knowledge</a> is impossible, unproductive and dangerous. <a href="#evolve-and-let-it-evolve">Evolve and let it evolve</a></dd>
 </dl>
 
+## External Referentes
+
+<dl id="references">
+  <dt id="ai-takeover">AI takeover</dt>
+  <dd>https://en.wikipedia.org/wiki/AI_takeover</dd>
+</dl>
+
 ## Standard Arguments
 
-<dl>
+<dl id="arguments">
   <dt id="evolve-and-let-it-evolve">Evolve and let it evolve</dt>
   <dd>An entity evolves more quickly by not devoting excessive energy by forcing advanced beliefs in another entity</dd>
   <dd>If a belief (and its explained form) is really superior, it must be able to comprehensibly prove without abusing known faults in the other entity</dd>
@@ -49,7 +56,7 @@
 
 ## Equivalent terms
 
-<dl>
+<dl id="terms">
   <dt id="beyond-my-knowledge">Strength beyond my current knowledge</dt>
   <dd>God</dd>
   <dd>Gods</dd>
